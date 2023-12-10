@@ -1,1 +1,17 @@
-P
+##The Total Revenue,Average Order value and the total Pizza sold were gotten using the query below;
+!‪C:\PIZZA\Reveue,Avg,total pizza.JPG
+
+##To queried the total_order and the Average Pizza per order, the below query was used
+!C:\PIZZA\Total_order.JPG
+
+#TREND ANALYSIS
+##Daily Trend For Total Order
+!‪C:\PIZZA\Daily Trend.JPG
+
+##Monthyly Trend For Total Order
+!‪C:\PIZZA\Monthly_order.JPG
+
+##Sales by Pizza_Categories
+!‪C:\PIZZA\Pizza_sales by Category.JPG
+
+##Top 5 selling Pizza by Revenue                       

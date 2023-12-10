@@ -3,3 +3,6 @@
 
 ##The Top % and Bottom 5 sales by Revenue
 ![Top and bottom 5 by total rev 2](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/2ecfb6c1-198f-4aea-896f-acd842ddd495)
+
+##Sales by Pizza Categories
+![Pizza_sales by Category](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/aff4f136-a998-42c5-88dc-beac29e0496c)

@@ -6,3 +6,6 @@
 
 ##Sales by Pizza Categories
 ![Pizza_sales by Category](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/aff4f136-a998-42c5-88dc-beac29e0496c)
+
+##Total Order
+![Total_order](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/fd5ab082-f418-455b-828d-636d73ebe280)

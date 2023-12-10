@@ -9,3 +9,6 @@
 
 ##Total Order
 ![Total_order](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/fd5ab082-f418-455b-828d-636d73ebe280)
+
+Sales by Size
+![%sales by size](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/891bdd23-77fc-4309-9d55-7d565a96f802)

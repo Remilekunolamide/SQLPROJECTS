@@ -1,17 +1,26 @@
 ##The Total Revenue,Average Order value and the total Pizza sold were gotten using the query below;
-!‪C:\PIZZA\Reveue,Avg,total pizza.JPG
+![Total Revenue and Average Order](‪C:\PIZZA\Reveue,Avg,total pizza.JPG)
 
 ##To queried the total_order and the Average Pizza per order, the below query was used
-!C:\PIZZA\Total_order.JPG
+![Total and Average order Value](C:\PIZZA\Total_order.JPG)
 
 #TREND ANALYSIS
 ##Daily Trend For Total Order
-!‪C:\PIZZA\Daily Trend.JPG
+![Daily Trend For Total Order](‪C:\PIZZA\Daily Trend.JPG)
 
-##Monthyly Trend For Total Order
-!‪C:\PIZZA\Monthly_order.JPG
+## Monthly Trend For Total Order
+![Monthly Trend For Total Order](C:/PIZZA/Monthly_order.JPG)
+
+## Sales by Pizza Categories
+![Sales by Pizza Categories](C:/PIZZA/Pizza_sales by Category.JPG)
 
 ##Sales by Pizza_Categories
-!‪C:\PIZZA\Pizza_sales by Category.JPG
+!‪(C:\PIZZA\Pizza_sales by Category.JPG)
+##Top 5 order by revenue
+![Top & bottom 5by revenue](C:\PIZZA\Top and bottom 5 by total rev 2.JPG)
 
-##Top 5 selling Pizza by Revenue                       
+git add README.md
+git commit -m "Add screenshot references to README"
+git push
+
+                    

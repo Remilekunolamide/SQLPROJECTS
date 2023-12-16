@@ -22,3 +22,17 @@
 ![Daily Trend](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/658a083f-da59-413a-8798-b2d323739ad9)
 
 ![Monthly_order](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/dbe3665e-aca8-424d-9a8e-8c223adaf24a)
+
+# VISUALIZATION OF THE PIZZA SALES REPORT
+
+## From the viz below, these deductions were observed
+
+- The pizza store sells pizza in about five different sizes and Four categories
+- The total revenue recorded was $817,900, with the highest revenue coming from the large pizza size, generating approximately $375,300, which accounts for approximately 46% of the total revenue. 
+- In the category chart, the Classic category consistently topped the chart in all quarters. It is also observed that demand was always high in the first week of every month
+
+![Pizza Sales Report](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/00879585-ce6d-4a4b-b02d-3edd5c7b5658)
+
+## The below VIZ is the table summary of the Pizza Sales Report
+![Pizza Sales Summary](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/d5e7cabc-7d3e-4bf6-8aa8-4f2d3f9fcfc0)
+

@@ -36,3 +36,17 @@
 ## The below VIZ is the table summary of the Pizza Sales Report
 ![Pizza Sales Summary](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/d5e7cabc-7d3e-4bf6-8aa8-4f2d3f9fcfc0)
 
+# Click on this link to access the full query in docx format
+[Pizza sales query.docx](https://github.com/Remilekunolamide/SQLPROJECTS/files/13691190/Pizza.sales.query.docx)
+
+## Query Screenshot 1
+![Pizza Query 1](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/1a40a97f-28c3-4954-8fc3-36ad80a636a0)
+
+## Query Screenshot 2
+![Pizza query 2](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/deb6c1aa-20ca-4cef-a790-1813a2603915)
+
+## Query Screenshot 3
+
+![Pizza Query 3](https://github.com/Remilekunolamide/SQLPROJECTS/assets/134251336/2e20e75e-6379-41e1-850a-5e0895413067)
+
+
